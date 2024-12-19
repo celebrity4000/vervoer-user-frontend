@@ -1,0 +1,28 @@
+export const historyData = [
+  {
+    initial: 'G',
+    location: 'Central shopping Centre (Garage)',
+    address: '123, Lincon Street, New York',
+    duration: '5 min',
+    rating: 4.2,
+    price: 140.0,
+    sessionId: 'CR58223',
+    startTime: '26 MAY 2021, 10:00 AM',
+    endTime: '28 MAY 2021, 2:00 PM',
+    timeUsed: '1D 4H 0M',
+    pricePerHour: 5.0,
+  },
+  {
+    initial: 'L',
+    location: 'Central shopping Centre (Lot)',
+    address: '123, Lincon Street, New York',
+    duration: '5 min',
+    rating: 4.2,
+    price: 140.0,
+    sessionId: 'CR58223',
+    startTime: '26 MAY 2021, 10:00 AM',
+    endTime: '28 MAY 2021, 2:00 PM',
+    timeUsed: '1D 4H 0M',
+    pricePerHour: 5.0,
+  },
+];
